@@ -1,0 +1,2 @@
+Status, Order Number, Pick Up Location, Drop Off Location, Booked By, Truck No., Driver's Name, Pick Up Scheduled, Pick Up Arrive Time, Pick Up Loaded, Drop Off Scheduled, Drop Off Arrive Time, Drop Off Empty, Bill To Customer, Total Charges, Driver Pay, Paperwork
+posted, 14025, Miami, FL, LaSalle, ON, , no truck, no driver, 8/20/2017 10:31:00 PM, 8/20/2017 10:31:00 PM, 8/20/2017 10:31:00 PM, 8/21/2017 10:31:00 PM, 8/21/2017 10:31:00 PM, 8/21/2017 10:31:00 PM, please enter, , , none

@@ -1,0 +1,4 @@
+Status, Order Number, Pick Up Location, Drop Off Location, Booked By, Truck No., Driver's Name, Pick Up Scheduled, Pick Up Arrive Time, Pick Up Loaded, Drop Off Scheduled, Drop Off Arrive Time, Drop Off Empty, Bill To Customer, Total Charges, Driver Pay, Paperwork
+posted, 3020, Tecumseh, ON, Tecumseh, ON, Steve, Truck 004, Frank, 3/10/2017 12:00:00 PM, 3/10/2017 12:00:00 PM, 3/10/2017 12:30:00 PM, 3/10/2017 12:00:00 PM, 3/11/2017 12:00:00 PM, 3/11/2017 12:20:00 PM, Franks Red Hots, 500.00, 175.00, none
+posted, 4020, Windsor, ON, Thunder Bay, ON, Mike, Truck 004, Not Mike, , 2/2/2017 12:12:00 PM, 2/2/2017 12:12:00 PM, , 2/2/2017 12:12:00 PM, 2/2/2017 12:12:00 PM, Bills Tackle, 675.00, 225.00, 1 file
+posted, 5018, 234234, 34234, Frank, Truck 004, Steve Wilco, , 2/2/2017 12:12:00 PM, 2/2/2017 12:12:00 PM, , 2/2/2017 12:12:00 PM, 2/2/2017 12:12:00 PM, Bills Tackle, 700.00, 150.00, 2 files

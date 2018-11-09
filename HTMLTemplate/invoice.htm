@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+
+
+            <table class="auto-style1">
+                <tr>
+                    <td class="auto-style2">
+                        <asp:Image ID="Image1" runat="server" ImageUrl="~/trucklogo.jpg" />
+                    </td>
+                    <td class="auto-style11">
+                        [ADDRESS]
+                    </td>
+                    <td align="center">
+                        Invoice Number<br />
+                        [ORDERDATE]
+                        <br />
+                        Posted Date<br />
+                        [POSTEDDATE]
+                    </td>
+                </tr>
+            </table>
+
+
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+        </div>
+        <table class="auto-style1">
+            <tr>
+                <td class="auto-style4">
+                    Bill To :
+                    [BILLTO]
+                    <br />
+                    &lt;insert address here&gt;
+                </td>
+                <td>
+                    Booked By :
+                    [BOOKEDBY]
+                    <br />
+                    Truck :
+                    [TRUCK]
+                    <br />
+                    Driver :
+                    [DRIVER]
+                </td>
+            </tr>
+        </table>
+        <br />
+        <asp:Image ID="Image2" runat="server" ImageUrl="~/line.png" />
+        <br />
+        <table class="auto-style1">
+            <tr>
+                <td class="auto-style5">
+                    <span class="auto-style9"><u>Event</u></span><br />
+                    Pick Up<br />
+                    Drop Off
+                </td>
+                <td>
+                    <br />
+                    [PICKUPLOCATION]
+                    <br />
+                    [DROPOFFLOCATION]
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+        </table>
+        <asp:Image ID="Image3" runat="server" ImageUrl="~/line.png" />
+        <br />
+        <br />
+        <table class="auto-style1">
+            <tr>
+                <td class="auto-style10">
+                    <span class="auto-style9"><u>Charge Type</u></span><br />
+                    Linehaul
+                </td>
+                <td class="auto-style8">
+                    <br />
+                </td>
+                <td class="auto-style6">
+                    <span class="auto-style9"><u>Amount</u></span><br />
+                    $
+                    [TOTALCHARGES]
+                </td>
+            </tr>
+        </table>
+        <table class="auto-style1">
+            <tr>
+                <td class="auto-style13">&nbsp;</td>
+                <td>
+                    Total Charges :
+                    US $
+                    [TOTALCHARGES2]
+                </td>
+            </tr>
+        </table>
+        <br />
+        <br />
+        <br />
+        <table class="auto-style1">
+            <tr>
+                <td>
+                    [TandC]
+                </td>
+            </tr>
+        </table>
+
+    </form>
+
+</body>
+</html>

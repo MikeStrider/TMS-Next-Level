@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TMS Next Level", ".", "{38196F87-F75D-4D92-ACFF-D8045B87E659}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64375"
+		Debug.AspNetCompiler.PhysicalPath = "..\TMS Next Level\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64375\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64375"
+		Release.AspNetCompiler.PhysicalPath = "..\TMS Next Level\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64375\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64375"
+		SlnRelativePath = "..\TMS Next Level\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38196F87-F75D-4D92-ACFF-D8045B87E659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38196F87-F75D-4D92-ACFF-D8045B87E659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38196F87-F75D-4D92-ACFF-D8045B87E659}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{38196F87-F75D-4D92-ACFF-D8045B87E659}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5DD8486-B8E1-4EE5-A2C4-79777D3BC56D}
+	EndGlobalSection
+EndGlobal
